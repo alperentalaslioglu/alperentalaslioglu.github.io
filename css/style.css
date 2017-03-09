@@ -1,0 +1,15 @@
+.main-container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.hello{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+img.icon{
+    width: 24px;
+    height: 24px;
+}
